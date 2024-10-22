@@ -1,0 +1,5 @@
+1- process request 
+2- validate data 
+3- add submission in databse 
+4-  add submission in queue
+5- return that submission is created with submission info 

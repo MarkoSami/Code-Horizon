@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseResponse.dto.js","sourceRoot":"","sources":["../../src/dtos/BaseResponse.dto.ts"],"names":[],"mappings":";;AAAA,MAAqB,eAAe;IAClC;;;;;OAKG;IACH,YAAmB,OAAgB,EAAS,OAAe,EAAS,IAAmB;QAApE,YAAO,GAAP,OAAO,CAAS;QAAS,YAAO,GAAP,OAAO,CAAQ;QAAS,SAAI,GAAJ,IAAI,CAAe;IAAI,CAAC;CAE7F;AATD,kCASC;AAAA,CAAC"}
